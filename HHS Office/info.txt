@@ -1,0 +1,11 @@
+Modelname: HHS Office
+Description: Office building
+
+Submodels: 
+Architect- Revit Architecture 2010
+Construction - Revit Architecture 2010
+MEP - Revit Architecture 2010
+
+Notes:
+‘2’ is second revision with minor change. 
+
